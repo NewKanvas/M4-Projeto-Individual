@@ -16,15 +16,12 @@ entrega 22/01
 - [Download](#download)
 
 ## Contexto
+Este projeto tem como objetivo realizar uma análise detalhada dos dados de um projeto de desenvolvimento de software ao longo de uma semana. O foco é fornecer insights para o proprietário da equipe de desenvolvimento, permitindo a identificação de áreas de melhoria e a tomada de decisões informadas para garantir o sucesso do projeto.
 
-Este projeto tem como objetivo realizar uma análise exploratória dos preços da gasolina e do etanol nos dois últimos meses do ano atual, utilizando dados disponíveis no portal gov.br. Serão exploradas diversas perguntas relacionadas ao comportamento dos preços, médias por estado, municípios com os menores e maiores preços, correlações entre preços e regiões, além de outras questões adicionais.
+Uma empresa de desenvolvimento de softwares forneceu dados sobre o projeto, e o objetivo é gerar um relatório de progresso diário. Isso inclui métricas como total de horas trabalhadas, média diária de horas trabalhadas, total de bugs corrigidos, média diária de bugs corrigidos, total de tarefas concluídas, média diária de tarefas concluídas e produtividade diária (tarefas concluídas por hora).
 
 ## Estrutura do Projeto
-
-- `Data/`: Pasta contendo os arquivos de dados baixados do portal gov.br.
-- `notebooks/`: Pasta contendo o Jupyter Notebook ou Colab desenvolvido.
-- `presentation/`: Pasta contendo slides de apoio para a apresentação.
-- `README.md`: Documentação principal do projeto.
+...
 
 ## PDF do Projeto
 - [PDF com Instruções e Detalhes do Projeto](Doc/1694464991_SEDadosM4Projetoemgrupopdf)
@@ -35,14 +32,7 @@ Este projeto tem como objetivo realizar uma análise exploratória dos preços d
 
 
 ## Execução do Projeto
-
-1. **Coleta de Dados**:
-
-2. **Limpeza e Preparação de Dados**:
-
-3. **Análise Exploratória**:
-
-4. **Apresentação**:
+...
 
 
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/NewKanvas/ProjetoIndividual-4?style=for-the-badge&logo=github)
