@@ -1,16 +1,8 @@
 # ProjetoIndividual 4 - Relatórios de Progresso
-entrega 22/01
-
 
 ## Conteúdo do Projeto
 - [Contexto](#contexto)
-- [Requisitos](#requisitos)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Modelo Conceitual](#modelo-conceitual)
-- [Modelo Lógico](#modelo-lógico)
-- [Guia do Projeto](#guia-do-projeto)
-- [Como Executar](#como-executar)
-- [Contribuidores](#contribuidores)
+- [PDF do Projeto](#pdf-do-Projeto)
 - [Licença](#licença)
 - [Status](#status)
 - [Download](#download)
@@ -20,20 +12,18 @@ Este projeto tem como objetivo realizar uma análise detalhada dos dados de um p
 
 Uma empresa de desenvolvimento de softwares forneceu dados sobre o projeto, e o objetivo é gerar um relatório de progresso diário. Isso inclui métricas como total de horas trabalhadas, média diária de horas trabalhadas, total de bugs corrigidos, média diária de bugs corrigidos, total de tarefas concluídas, média diária de tarefas concluídas e produtividade diária (tarefas concluídas por hora).
 
-## Estrutura do Projeto
-...
+## Arquivo do Projeto
+- [Projeto](notebook.ipynb)
 
 ## PDF do Projeto
-- [PDF com Instruções e Detalhes do Projeto](Doc/1694464991_SEDadosM4Projetoemgrupopdf)
+- [PDF com Instruções e Detalhes do Projeto](Doc/1694464969_SEDadosM4ProjetoIndividualpdf.pdf)
 
 ## Download
 
 [![Download ZIP](https://img.shields.io/badge/Download_-ZIP-green?style=for-the-badge&logo=github)](https://github.com/NewKanvas/ProjetoIndividual-4/archive/main.zip)
 
 
-## Execução do Projeto
-...
-
+## Status
 
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/NewKanvas/ProjetoIndividual-4?style=for-the-badge&logo=github)
 ![GitHub last commit](https://img.shields.io/github/last-commit/NewKanvas/ProjetoIndividual-4?style=for-the-badge&logo=git)
